@@ -8,3 +8,5 @@ services:
     envVars:
       - key: PYTHON_VERSION
         value: 3.12.0
+      - key: PLAYWRIGHT_BROWSERS_PATH
+        value: /workspace/.playwright
