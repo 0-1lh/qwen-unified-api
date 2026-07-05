@@ -1,0 +1,5 @@
+qwen_data/
+*.pyc
+__pycache__/
+.playwright/
+.env
